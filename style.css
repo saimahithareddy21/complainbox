@@ -1,0 +1,32 @@
+.inline
+{
+    display: inline;
+    font-size: larger;
+    padding-top: 100px;
+    
+}
+#icon
+{
+    width: 100px;
+    
+}
+h4{
+    margin-left: 250px;
+}
+section{
+    border : solid 1px pink;
+    width: 500px;
+    height: fit-content;
+}
+input
+{
+    height: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+body{
+    background-image: url(./jntusym.jpg);
+    background-position: 50% 60%;
+    background-repeat: no-repeat;
+    
+}
